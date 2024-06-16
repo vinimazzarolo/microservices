@@ -1,0 +1,1 @@
+An implementation of communication between two services written in Go: one is a producer and the other is a consumer. The communication is asynchronous, using Kafka. Both the producer and consumer are monitored by Grafana, which collects data from Prometheus.
